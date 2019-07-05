@@ -6,8 +6,6 @@
 
 - title: About IAL
   url: /who-we-are/
-- title: Success Stories
-  url: /success-stories/
 - title: About NACE
   url: /about-nace/nace-story/
   sub-links:
@@ -17,6 +15,8 @@
     url: /about-nace/what-nace-offers/
   - title: NACE Events
     url: /about-nace/nace-events/
+- title: Success Stories
+  url: /success-stories/
 - title: News
   url: /news/
   sub-links:

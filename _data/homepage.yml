@@ -11,26 +11,26 @@ favicon: /images/favicon-isomer.ico
 agency-logo: /images/isomer-logo.svg
 
 # Hero Banner
-hero-title: Hero title
-hero-subtitle: Hero subtitle
+hero-title: Workplace Learning Joint Landing Page
+hero-subtitle: A Collaboration between IAL and NACE
 hero-banner: /images/hero-banner.png
 
-#Call to Action Button
-button:
-  - text: Learn More
-    url: /who-we-are/
+# Call to Action Dropdown
+i-am-interested-in:
+  - title: Training Courses
+    url: /application-guidelines/application-for-licence/
     
 key-highlights:
-  - title: Highlight A
-    description: Important highlight A is important
-    url: https://google.com
+  - title: Training Courses
+    description: Developing People through WpL
+    url: https://www.nyp.edu.sg/lifelong-learning/national-centre-of-excellence-for-workplace-learning-nace/courses-training.html
     external: true
-  - title: Highlight B
-    description: Important highlight B is equally important
-    url: https://yahoo.com
+  - title: Consultancy Services
+    description: Developing Systems and Processes to sustain WpL
+    url: https://www.nyp.edu.sg/lifelong-learning/national-centre-of-excellence-for-workplace-learning-nace/services.html
     external: true
-  - title: Page A
-    description: Page A is important too
+  - title: Events
+    description: Developing outreach through publicity
     url: /page-A/
 
 resources-title: Resources

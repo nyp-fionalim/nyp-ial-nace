@@ -37,3 +37,9 @@ resources-title: Resources
 resources-subtitle: Be in the know
 resources-more-button: More Resources
 resources-more-button-url: news/
+
+# Careers Section
+# To edit the careers details, go to careers-stories.yml
+
+careers-subtitle: Our Success Stories
+careers-description: How has Workplace Learning transformed these companies
